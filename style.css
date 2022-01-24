@@ -1,0 +1,43 @@
+.container{
+    width:100%;
+    margin: 0 auto;
+}
+.logo{
+    float: left;
+    width: 25% 50% 25%;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+.form{
+    display: block;
+    max-width: 100%;
+    margin: 0 auto;
+    border-radius: 8px;
+}
+#butt{
+    border-radius: 2px;
+    background-color: black;
+    color: white;
+}
+.form-name{
+    text-align: center;
+    
+}
+.button{
+    float: left;
+    text-align: center;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+#first{
+    background-color: orangered;
+    color: white;
+}
+#second{
+    background-color: white;
+    color: black;
+    
+}
